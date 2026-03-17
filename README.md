@@ -70,7 +70,7 @@ The lag structure is selected automatically using the Akaike Information Criteri
 The ARDL Bounds testing approach is used to determine whether a long-run equilibrium relationship exists between GDP per capita and the circular economy / environmental variables.
 
 ### 3. EKC and ICC testing
-The Environmental Kuznets Curve (EKC) and Inverted Circularity Curve (ICC) hypotheses are tested through nonlinear ARDL specifications using `lnGDP` and `lnGDP2`.
+The Environmental Kuznets Curve (EKC) and Inverted Circularity Curve (ICC) hypotheses are tested through nonlinear ARDL specifications using lnGDP and lnGDP2.
 
 This makes it possible to detect threshold effects and possible regime changes in the relationship between development, emissions, and circularity.
 
