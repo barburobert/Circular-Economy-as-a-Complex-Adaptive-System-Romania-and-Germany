@@ -37,23 +37,23 @@ The data were collected from the Eurostat database, using indicators associated 
 
 Dependent variable:
 
-- `GDP` – real GDP per capita
+- GDP – real GDP per capita
 
 Explanatory variables:
 
-- `RP` – resource productivity
-- `RRMW` – recycling rate of municipal waste
-- `DNGGE` – domestic net greenhouse gas emissions per capita
+- RP – resource productivity
+- RRMW – recycling rate of municipal waste
+- DNGGE – domestic net greenhouse gas emissions per capita
 
 To improve comparability and statistical stability, the variables expressed in absolute levels were transformed into logarithms:
 
-- `lnGDP`
-- `lnRP`
-- `lnDNGGE`
+- lnGDP
+- lnRP
+- lnDNGGE
 
 In order to test nonlinear relationships consistent with the Environmental Kuznets Curve (EKC) and the Inverted Circularity Curve (ICC), the squared term of logged GDP per capita was also included:
 
-- `lnGDP2`
+- lnGDP2
   
 ## Software used
 
@@ -105,26 +105,8 @@ From a complex adaptive systems perspective, these differences do not imply dive
 
 The repository includes the project document, the supporting datasets, and the README file.
 
-- `CircularEconomy_Project.docx / .pdf` – project document in Romanian
-- `Romania_data.xlsx` – dataset for Romania
-- `Germany_data.xlsx` – dataset for Germany
-- `README.md` – English description of the project
+- CircularEconomy.docx – project document in Romanian
+- DateRO.xlsx – dataset for Romania
+- DateDE.xlsx – dataset for Germany
+- README.md – English description of the project
 
-## Source
-
-Eurostat Database, Sustainable Development Indicators, accessed January 2026.
-
-## Relevance
-
-This project is relevant for:
-
-- circular economy analysis
-- sustainable development research
-- comparative economic modelling
-- ARDL and cointegration analysis
-- nonlinear growth-environment relationships
-- complex adaptive systems applications in economics
-
-## Author
-
-Robert Barbu
