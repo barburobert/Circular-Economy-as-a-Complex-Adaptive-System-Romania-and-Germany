@@ -1,4 +1,32 @@
 # Circular-Economy-as-a-Complex-Adaptive-System-Romania-and-Germany
+**Author:** Robert-Florian Barbu 
+
+## Main findings
+
+### Romania
+
+The Romanian results suggest that economic growth remains only weakly linked to circular economy indicators in the long run. Resource productivity and municipal recycling do not show strong long-run effects on GDP per capita, while greenhouse gas emissions remain positively associated with growth in the short run, indicating incomplete decoupling between development and environmental pressure.
+
+The EKC results support an inverted-U relationship between economic development and environmental degradation. Romania appears to have passed the estimated turning point, but the downward adjustment in emissions is still gradual and irregular.
+
+The ICC results suggest that the circularity-growth relationship is still emerging and delayed, which is consistent with a transitional economy undergoing slow structural adaptation.
+
+### Germany
+
+In Germany, the relationship between growth and circular-economy-related efficiency is stronger and more coherent. Resource productivity has a positive and statistically significant effect on economic growth, especially in the long run, while recycling appears to be already structurally embedded.
+
+The EKC pattern is also supported, but in a more mature and stabilized form. Germany appears to be firmly located on the downward side of the environmental Kuznets curve, where growth is increasingly associated with lower environmental pressure.
+
+The ICC hypothesis is not confirmed for Germany, which can be interpreted not as an absence of circularity, but as evidence that circularity has already been internalized structurally and no longer varies systematically with GDP.
+
+## Comparative interpretation
+
+The results indicate that Romania and Germany represent different adaptive states within the same broad sustainability transition.
+
+- Germany displays a more mature and coordinated structure, in which efficiency, institutional stability, and technological adaptation are more deeply integrated into growth dynamics.
+- Romania shows a more gradual and delayed adjustment process, with stronger dependence on cyclical corrections and a weaker structural role of circular-economy mechanisms.
+
+From a complex adaptive systems perspective, these differences do not imply divergent models of development, but rather different positions along the same path of structural adaptation.
 
 ## Overview
 
@@ -74,32 +102,6 @@ The Environmental Kuznets Curve (EKC) and Inverted Circularity Curve (ICC) hypot
 
 This makes it possible to detect threshold effects and possible regime changes in the relationship between development, emissions, and circularity.
 
-## Main findings
-
-### Romania
-
-The Romanian results suggest that economic growth remains only weakly linked to circular economy indicators in the long run. Resource productivity and municipal recycling do not show strong long-run effects on GDP per capita, while greenhouse gas emissions remain positively associated with growth in the short run, indicating incomplete decoupling between development and environmental pressure.
-
-The EKC results support an inverted-U relationship between economic development and environmental degradation. Romania appears to have passed the estimated turning point, but the downward adjustment in emissions is still gradual and irregular.
-
-The ICC results suggest that the circularity-growth relationship is still emerging and delayed, which is consistent with a transitional economy undergoing slow structural adaptation.
-
-### Germany
-
-In Germany, the relationship between growth and circular-economy-related efficiency is stronger and more coherent. Resource productivity has a positive and statistically significant effect on economic growth, especially in the long run, while recycling appears to be already structurally embedded.
-
-The EKC pattern is also supported, but in a more mature and stabilized form. Germany appears to be firmly located on the downward side of the environmental Kuznets curve, where growth is increasingly associated with lower environmental pressure.
-
-The ICC hypothesis is not confirmed for Germany, which can be interpreted not as an absence of circularity, but as evidence that circularity has already been internalized structurally and no longer varies systematically with GDP.
-
-## Comparative interpretation
-
-The results indicate that Romania and Germany represent different adaptive states within the same broad sustainability transition.
-
-- Germany displays a more mature and coordinated structure, in which efficiency, institutional stability, and technological adaptation are more deeply integrated into growth dynamics.
-- Romania shows a more gradual and delayed adjustment process, with stronger dependence on cyclical corrections and a weaker structural role of circular-economy mechanisms.
-
-From a complex adaptive systems perspective, these differences do not imply divergent models of development, but rather different positions along the same path of structural adaptation.
 
 ## Repository structure
 
